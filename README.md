@@ -1,5 +1,5 @@
 # Johann - who am I?
-I'm an 19 years old guy from Brazilian and a programmer. I speak Portuguese and English, love technology, mainly software.
+I'm an 19 years old, from Brazil and a programmer. I speak Portuguese and English, love technology, mainly software.
 
 Today work with [Materialize](https://www.materialize.pro) at [GitLab](https://gitlab.materialize.pro/johannpereira)  as a front-end developer.
 
