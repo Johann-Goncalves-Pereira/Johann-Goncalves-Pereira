@@ -8,6 +8,9 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
 [![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&show_icons=true&no-frame=true&no-bg=false&margin-w=15&margin-h=15&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#themes)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&theme=onedark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
+
+<!-- [![Johann's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Johann_Goncalves)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ### Some of my Achievements / Trophys
 [![Johann Trophy](https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&no-frame=true&no-bg=false&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
