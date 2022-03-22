@@ -71,6 +71,10 @@ I made just some apps, not that much, so I don't fill confidant :/
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5541991422303&text=sua%20mensagem)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JohannGoncalvesPereira)
 
+
+# Contrybutions
+[![Contribution snake example](https://github.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/blob/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-readme-md-snake)
+
 <!---
 Johann-Goncalves-Pereira/Johann-Goncalves-Pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
