@@ -73,9 +73,8 @@ I made just some apps, not that much, so I don't fill confidant :/
 
 
 # Contrybutions
-<!-- [](https://github.com/marketplace/actions/generate-readme-md-snake) -->
-<!-- ![Contribution snake example](https://github.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/blob/output/github-contribution-grid-snake.svg)
- -->
+[![Contribution snake example](https://github.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/blob/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-readme-md-snake)
+
 <!---
 Johann-Goncalves-Pereira/Johann-Goncalves-Pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
