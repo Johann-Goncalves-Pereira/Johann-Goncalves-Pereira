@@ -39,10 +39,9 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
 <!-- 
 [![Johann Trophy](https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&no-frame=true&no-bg=false&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  -->
+ 
 ## My Knowledge
-
 I'm a front end developer and as you can see most of the time I work on the web.
-
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"
     ><img
@@ -53,8 +52,8 @@ I'm a front end developer and as you can see most of the time I work on the web.
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&layout=compact&no-frame=true&no-bg=false&margin-w=15&margin-h=15&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
+ 
 ### Web
-
 Elm and Sass are my main tools.
 <p>
   <a href="https://elm-lang.org" target="_blank"
@@ -128,9 +127,7 @@ Elm and Sass are my main tools.
  -->
 
 ### Mobile
-
 I made just some apps, not that much, so I don't fill confidant :/
-
 <p>
   <a href="https://reactnative.dev" target="_blank"
     ><img
@@ -155,7 +152,6 @@ I made just some apps, not that much, so I don't fill confidant :/
  -->
 
 ### Others
-
 <p>
   <a href="https://www.gnu.org/software/bash/" target="_blank"
     ><img
@@ -202,8 +198,8 @@ I made just some apps, not that much, so I don't fill confidant :/
 [![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/)
 [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
  -->
+ 
 ### WorkFlow
-
 <p>
   <a href="https://code.visualstudio.com" target="_blank"
     ><img
@@ -244,6 +240,7 @@ I made just some apps, not that much, so I don't fill confidant :/
 [![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/?from-app=1)
 [![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
  -->
+
 ## Social - Network
 <p>
   <a href="https://github.com/Johann-Goncalves-Pereira" target="_blank"
@@ -313,8 +310,8 @@ I made just some apps, not that much, so I don't fill confidant :/
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5541991422303&text=sua%20mensagem)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JohannGoncalvesPereira)
  -->
+ 
 # Contrybutions
-
 <p>
   <a
     href="https://github.com/marketplace/actions/generate-readme-md-snake"
