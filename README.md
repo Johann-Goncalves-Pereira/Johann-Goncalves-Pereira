@@ -11,7 +11,7 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
     href="https://github.com/anuraghazra/github-readme-stats#themes"
     target="_blank"
     ><img
-      src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;show_icons=true&amp;no-frame=true&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15&amp;theme=onedark&amp;hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&bg_color=43,0D1B2A,415A77&hide_border=true&title_color=E0E1DD&text_color=ECECEA&icon_color=778DA9&show_icons=true"
       alt="Johann&#39;s GitHub stats"
   /></a>
   <a href="https://git.io/streak-stats" target="_blank"
@@ -42,17 +42,9 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
  
 ## My Knowledge
 I'm a front end developer and as you can see most of the time I work on the web.
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"
-    ><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&amp;layout=compact&amp;no-frame=true&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15&amp;theme=onedark&amp;hide_border=true"
-      alt="Top Langs"
-  /></a>
-</p>
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&layout=compact&no-frame=true&no-bg=false&margin-w=15&margin-h=15&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&bg_color=43,0D1B2A,415A77&hide_border=true&title_color=E0E1DD&text_color=ECECEA&icon_color=778DA9&show_icons=true&layout=compact&no-frame=true&no-bg=false&margin-w=15&margin-h=15&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Web
 Elm and Sass are my main tools.
 <p>
