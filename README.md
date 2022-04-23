@@ -81,8 +81,7 @@ I made just some apps, not that much, so I don't fill confidant :/
  
 # Contributions
 
-
-![Contribution snake example](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg)
+![Contribution snake example](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-dark.svg)
 
 
 
