@@ -6,6 +6,12 @@ Today work with <a href="https://www.materialize.pro" target="_blank">Materializ
 
 I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Native).
 
+## Contributions
+
+[![Contribution snake example](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg)](https://github.com/Platane/snk)
+
+## Status
+
 <!-- [![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&show_icons=true&no-frame=true&no-bg=false&margin-w=15&margin-h=15&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#themes) -->
 [![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&bg_color=43,0D1B2A,415A77&hide_border=true&title_color=E0E1DD&text_color=ECECEA&icon_color=778DA9&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#themes)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -79,11 +85,6 @@ I made just some apps, not that much, so I don't fill confidant :/
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JohannGoncalvesPereira)
 
  
-# Contributions
-
-[![Contribution snake example](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg)](https://github.com/Platane/snk)
-
-
 
 <!---
 Johann-Goncalves-Pereira/Johann-Goncalves-Pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
