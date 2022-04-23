@@ -303,16 +303,19 @@ I made just some apps, not that much, so I don't fill confidant :/
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JohannGoncalvesPereira)
  -->
  
-# Contrybutions
+<!-- # Contrybutions
 <p>
   <a
     href="https://github.com/marketplace/actions/generate-readme-md-snake"
     target="_blank"
     ><img
-      src="https://github.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"
+      src="https://github.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/blob/output/github-contribution-grid-snake.svg"
       alt="Contribution snake example"
   /></a>
-</p>
+</p> -->
+
+![GitHub Snake](github-snake-dark.svg)
+
 
 <!-- 
 [![Contribution snake example](https://github.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/blob/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-readme-md-snake)
