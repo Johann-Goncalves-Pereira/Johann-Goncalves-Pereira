@@ -309,10 +309,11 @@ I made just some apps, not that much, so I don't fill confidant :/
     href="https://github.com/marketplace/actions/generate-readme-md-snake"
     target="_blank"
     ><img
-      src="https://github.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/blob/output/github-contribution-grid-snake.svg"
+      src="https://github.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"
       alt="Contribution snake example"
   /></a>
 </p>
+
 <!-- 
 [![Contribution snake example](https://github.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/blob/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-readme-md-snake)
  -->
