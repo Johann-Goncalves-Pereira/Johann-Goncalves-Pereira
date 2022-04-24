@@ -13,13 +13,14 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
 ## Status
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats#themes">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true" alt="Johann&#39;s GitHub stats" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;theme=onedark&amp;hide_border=true" alt="Johann&#39;s GitHub stats" />
+    <!-- &amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true -->
   </a><a  href="https://git.io/streak-stats">
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&amp;theme=onedark&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
 </p>
 
-### Some of my Achievements / Trophies
+### Achievements / Trophies
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -30,10 +31,10 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
 ## Knowledge
 I'm a front end developer and as you can see most of the time I work on the web.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&bg_color=43,0D1B2A,415A77&hide_border=true&title_color=E0E1DD&text_color=ECECEA&icon_color=778DA9&show_icons=true&layout=compact&no-frame=true&no-bg=false&margin-w=15&margin-h=15&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&theme=onedark&layout=compact&no-frame=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- &bg_color=43,0D1B2A,415A77&hide_border=true&title_color=E0E1DD&text_color=ECECEA&icon_color=778DA9&show_icons=true&layout=compact&no-frame=true&no-bg=false&margin-w=15&margin-h=15 -->
 ### Web
-Elm and Sass are my main tools.
+Elm and Css(Sass) are my main tools.
 
 [![elm (4)](https://user-images.githubusercontent.com/62612685/156861010-fb9c0fce-df73-4bed-b911-a7f16077b06a.svg)](https://elm-lang.org)
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -49,7 +50,7 @@ Elm and Sass are my main tools.
 
 
 ### Mobile
-I made just some apps, not that much, so I don't fill confidant :/
+I made just some apps, not that much, It isn't my expertize.
 
 [![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
@@ -86,10 +87,3 @@ I made just some apps, not that much, so I don't fill confidant :/
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://johann.gon.pereira@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5541991422303&text=sua%20mensagem)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JohannGoncalvesPereira)
-
- 
-
-<!---
-Johann-Goncalves-Pereira/Johann-Goncalves-Pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
