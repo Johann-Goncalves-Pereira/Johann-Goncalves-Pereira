@@ -11,14 +11,22 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
 [![Contribution snake example](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg)](https://github.com/Platane/snk)
 
 ## Status
-
-
-
-<table>
-  <tr>
-    <td valign="top">
+<div align="center">
+  <div style="display:flex;gap:1rem;">
       <a href="https://github.com/anuraghazra/github-readme-stats#themes">
-        <img src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true" alt="Johann&#39;s GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true" alt="Johann&#39;s GitHub stats" />
+      </a>
+      <a  href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&amp;theme=onedark&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+      </a>
+  </div>
+</div>
+<!-- 
+<table cellpadding="0">
+  <tr>
+    <td valign="top" >
+      <a href="https://github.com/anuraghazra/github-readme-stats#themes">
+        <img src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true" alt="Johann&#39;s GitHub stats" />
       </a>
     </td>
     <td valign="top">
@@ -28,7 +36,7 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
     </td>
    <tr>
 </table>
-
+ -->
 <!-- 
 [![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&bg_color=43,0D1B2A,415A77&hide_border=true&title_color=E0E1DD&text_color=ECECEA&icon_color=778DA9&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#themes)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
