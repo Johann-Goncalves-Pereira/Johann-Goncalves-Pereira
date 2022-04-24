@@ -12,12 +12,12 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
 
 ## Status
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats#themes">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true" alt="Johann&#39;s GitHub stats" />
-    </a>
-    <a  href="https://git.io/streak-stats">
-      <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&amp;theme=onedark&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-    </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#themes">
+    <img width="49.75%" src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true" alt="Johann&#39;s GitHub stats" />
+  </a>
+  <a  href="https://git.io/streak-stats">
+    <img width="49.75%" src="http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&amp;theme=onedark&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+  </a>
 </p>
 <!-- 
 <table cellpadding="0">
