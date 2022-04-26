@@ -9,8 +9,8 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
 ## Contributions
 
 
-[![Contribution snake Light](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg#gh-light-mode-only)](https://github.com/Platane/snk)
-[![Contribution snake Dark](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg#gh-dark-mode-only)](https://github.com/Platane/snk)
+[![Contribution snake Light](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg)](https://github.com/Platane/snk#gh-light-mode-only)
+[![Contribution snake Dark](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg)](https://github.com/Platane/snk#gh-dark-mode-only)
 
 ## Status
 <p>
