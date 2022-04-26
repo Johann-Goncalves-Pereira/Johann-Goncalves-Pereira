@@ -14,10 +14,15 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
 
 ## Status
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats#themes">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img width="48.25%" src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;hide_border=true&show_icons=true" alt="Johann&#39;s GitHub stats" />
+    <!-- &amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true -->
+  </a><a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img width="48.25%" src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;theme=onedark&amp;hide_border=true&show_icons=true" alt="Johann&#39;s GitHub stats" />
     <!-- &amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true -->
-  </a>&nbsp;&nbsp;<a  href="https://git.io/streak-stats">
+  </a>&nbsp;&nbsp;<a  href="https://git.io/streak-stats#gh-light-mode-only">
+    <img width="48.25%" src="http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+  </a><a  href="https://git.io/streak-stats#gh-dark-mode-only">
     <img width="48.25%" src="http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&amp;theme=onedark&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
 </p>
@@ -25,7 +30,9 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
 ### Achievements / Trophies
 
 <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
+    <img width="100%"  src="https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&amp;no-frame=true&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15" alt="Johann Trophy">
+  </a><a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
     <img width="100%"  src="https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&amp;no-frame=true&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15&amp;theme=onedark" alt="Johann Trophy">
   </a>
 </p>
@@ -33,7 +40,8 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
 ## Knowledge
 I'm a front end developer and as you can see most of the time I work on the web.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&theme=onedark&layout=compact&no-frame=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&layout=compact&no-frame=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&theme=onedark&layout=compact&no-frame=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!-- &bg_color=43,0D1B2A,415A77&hide_border=true&title_color=E0E1DD&text_color=ECECEA&icon_color=778DA9&show_icons=true&layout=compact&no-frame=true&no-bg=false&margin-w=15&margin-h=15 -->
 ### Web
 Elm and Css(Sass) are my main tools.
