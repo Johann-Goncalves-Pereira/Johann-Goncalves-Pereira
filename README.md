@@ -33,10 +33,10 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Nat
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
-    <img width="100%"  src="https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15" alt="Johann Trophy">
+    <img width="98.25%"  src="https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15" alt="Johann Trophy">
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-    <img width="100%"  src="https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&amp;no-frame=true&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15&amp;theme=onedark" alt="Johann Trophy">
+    <img width="98.25%"  src="https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&amp;no-frame=true&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15&amp;theme=onedark" alt="Johann Trophy">
   </a>
 </p>
  
