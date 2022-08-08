@@ -1,10 +1,12 @@
 # Johann - Who am I?
 
-I'm an 19 years old, from Brazil and a programmer. I speak Portuguese and English, love technology, mainly software.
+I'm an 20 years old, from Brazil and a programmer. I speak Portuguese and English, love technology, mainly software.
 
-Today work with <a href="https://www.materialize.pro" target="_blank">Materialize</a> at <a href="https://gitlab.materialize.pro/johannpereira" target="_blank">GitLab</a> as a front-end developer.
+Today work with <a href="https://www.materialize.pro" target="_blank">Materialize</a> at <a href="https://gitlab.materialize.pro/johannpereira" target="_blank">GitLab</a> as a front-end developer, and as a freelance at [UpWork](https://www.upwork.com/freelancers/~011d31917fa3d87f28). I program for about 3 years.
 
-I love yor work with **Elm**, **Sass**, **Html** and I'm leaarning React.(JS|Native).
+You can see my work at my [website](https://johann-goncalves-pereira.netlify.app).
+
+I love yor work with **Elm**, **Sass**, **Html** and I'm learning React.(JS|Native).
 
 ## Contributions
 
@@ -63,7 +65,7 @@ Elm and Css(Sass) are my main tools.
 
 
 ### Mobile
-I made just some apps, not that much, It isn't my expertize.
+I made some apps, but this isn't my expertize.
 
 [![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
@@ -94,11 +96,16 @@ I made just some apps, not that much, It isn't my expertize.
 ## Social - Network
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johann-Goncalves-Pereira)
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.materialize.pro/johannpereira)
+[![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~011d31917fa3d87f28)
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/johann-goncalves-pereira)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johanngon_/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johann-pereira-a798961b3/)
 [![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/johanngoncalvespereira)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johann.gon.pereira)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://johann.gon.pereira@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5541991422303&text=sua%20mensagem)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JohannGoncalvesPereira)
+
+
+| [![proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://proton.me) | johann.gon.pereira@protonmail.com |
+--- | ---
+|  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://johann.gon.pereira@gmail.com) | johann.gon.pereira@gmail.com |
