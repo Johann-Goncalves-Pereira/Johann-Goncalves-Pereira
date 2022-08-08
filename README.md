@@ -106,6 +106,7 @@ I made some apps, but this isn't my expertize.
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JohannGoncalvesPereira)
 
 
-| [![proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://proton.me) | johann.gon.pereira@protonmail.com |
+| Plataform | Email |
 --- | ---
-|  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://johann.gon.pereira@gmail.com) | johann.gon.pereira@gmail.com |
+| [![proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://proton.me) | johann.gon.pereira@protonmail.com |
+| [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://johann.gon.pereira@gmail.com) | johann.gon.pereira@gmail.com |
