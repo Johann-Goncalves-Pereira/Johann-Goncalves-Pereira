@@ -10,7 +10,8 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm learning React.(JS|Nati
 
 ## Contributions
 
-
+[![wakatime](https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg)](https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352)
+ 
 [![Contribution snake Light](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg)](https://github.com/Platane/snk#gh-light-mode-only)
 [![Contribution snake Dark](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg)](https://github.com/Platane/snk#gh-dark-mode-only)
 
@@ -43,7 +44,7 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm learning React.(JS|Nati
 </p>
  
 ## Knowledge
-I'm a front end developer and as you can see most of the time I work on the web.
+I'm a front end developer, as you can see, by the languages that I use web.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&layout=compact&no-frame=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&theme=onedark&layout=compact&no-frame=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
