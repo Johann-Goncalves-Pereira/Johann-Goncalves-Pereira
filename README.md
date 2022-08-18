@@ -8,7 +8,7 @@ You can see my work at my [website](https://johann-goncalves-pereira.netlify.app
 
 I love yor work with **Elm**, **Sass**, **Html** and I'm learning React.(JS|Native).
 
-## Contributions - [![wakatime](https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg)](https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352)
+## Contributions - <a href="https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352"><img src="https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg" alt="Total time coded since Mar 4 2022" /></a>
  
 [![Contribution snake Light](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg)](https://github.com/Platane/snk#gh-light-mode-only)
 [![Contribution snake Dark](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg)](https://github.com/Platane/snk#gh-dark-mode-only)
