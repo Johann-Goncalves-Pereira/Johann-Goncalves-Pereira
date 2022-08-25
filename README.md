@@ -1,4 +1,4 @@
-# Johann - Who am I?
+# Intodution
 
 I'm an 20 years old, from Brazil and a programmer. I speak Portuguese and English, love technology, mainly software.
 
@@ -30,7 +30,7 @@ I love yor work with **Elm**, **Sass**, **Html** and I'm learning React.(JS|Nati
   </a>
 </p>
 
-### Achievements / Trophies
+### Achievements - Trophies
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
@@ -82,7 +82,7 @@ I made some apps, but this isn't my expertize.
 [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
  
-### WorkFlow
+### Workflow
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)](https://www.jetbrains.com/webstorm/)
 [![vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com)
@@ -103,7 +103,6 @@ I made some apps, but this isn't my expertize.
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johann.gon.pereira)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5541991422303&text=sua%20mensagem)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JohannGoncalvesPereira)
-
 
 | Plataform | Email |
 --- | ---
