@@ -6,7 +6,7 @@ Today work with <a href="https://www.materialize.pro" target="_blank">Materializ
 
 You can see my work at my [website](https://johann-goncalves-pereira.netlify.app).
 
-I love yor work with **Elm**, **Sass**, **Html** and I'm learning React.(JS|Native).
+I love yor work with **Elm**, **Sass**, **Html** and have experience with ReatJS & ReactNative.
 
 ## Contributions - [![wakatime](https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg)](https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352)
  
