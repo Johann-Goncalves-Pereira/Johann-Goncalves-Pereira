@@ -12,8 +12,6 @@ Then I started a job at the [UpWork](https://www.upwork.com/freelancers/~011d319
 After a few jobs as a freelancer, a client offered a job offer at [Reside](https://resideadmissions.com), which is where I currently work at.
 Nowadays I work with Reside front-end developer, and freelance at UpWork. I've been programming for about 5 years now.
 
-You can check out more of my work at website and my GitHub. 
-
 You can check out more of my work at [website](https://johann-goncalves-pereira.netlify.app) and my [GitHub](https://github.com/Johann-Goncalves-Pereira).
 
 I love your work with  **Elm**, **Sass**, **Html** and got experience with ReatJS and ReactNative.
