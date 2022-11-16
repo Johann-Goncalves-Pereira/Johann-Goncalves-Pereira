@@ -9,8 +9,8 @@ In all honesty, they shaped me. In addition to the basics, I also learned to spe
 learned how to use docker and how to be curious and enthusiastic about technology. 
 
 Then I started a job at the [UpWork](https://www.upwork.com/freelancers/~011d31917fa3d87f28) and got access to the U.S. Market. 
-After a few jobs as a freelancer, a client offered a job offer at [Reside](https://resideadmissions.com), which is where I currently work at.
-Nowadays I work with Reside front-end developer, and freelance at UpWork. I've been programming for about 5 years now.
+After a few jobs as a freelancer, a client offered a job offer at [Reside](https://resideadmissions.com), which is where I currently work at. 
+I've been programming for about 5 years now.
 
 You can check out more of my work at [website](https://johann-goncalves-pereira.netlify.app) and my [GitHub](https://github.com/Johann-Goncalves-Pereira).
 
