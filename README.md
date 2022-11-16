@@ -1,18 +1,22 @@
-# Intodution
+# Introduction
 
-I'm an 20 years old, from Brazil and a programmer. I speak Portuguese and English, love technology, mainly software. I am a developer since 2018,
-and professionally since July 2021 when I started to work at <a href="https://www.materialize.pro" target="_blank">Materialize</a>, there I learn
-a lot about <a href="https://gitlab.materialize.pro/johannpereira" target="_blank">Elm, Sass, Html</a> and how to be productive. Honestly, they shaped me, in addition to the basics, I also learned to speak and 
-communicate better, to use docker and to be curious and enthusiastic about technology.
 
-Then I start to work at the [UpWork](https://www.upwork.com/freelancers/~011d31917fa3d87f28). And get access to the US market. 
-After a few jobs as a freelancer I got an opportunity with a client, to work at [Reside](https://resideadmissions.com), and now I'm working there.
+I'm a 20 year old programmer from Brazil. I speak both Portuguese and English, love technology, mainly software. 
+I've been a developer since 2018, and professionally since July 2021 when I started to work at 
+<a href="https://www.materialize.pro" target="_blank">Materialize</a>, a place where I earned a lot of knowledge 
+about <a href="https://gitlab.materialize.pro/johannpereira" target="_blank">Elm, Sass, Html</a> and how to improve my productivity. 
+In all honesty, they shaped me. In addition to the basics, I also learned to speak and communicate better, 
+learned how to use docker and how to be curious and enthusiastic about technology. 
 
-Today work with <a href="https://www.materialize.pro" target="_blank">Materialize</a> at <a href="https://gitlab.materialize.pro/johannpereira" target="_blank">GitLab</a> as a front-end developer, and as a freelance at [UpWork](https://www.upwork.com/freelancers/~011d31917fa3d87f28). I program for about 3 years.
+Then I started a job at the [UpWork](https://www.upwork.com/freelancers/~011d31917fa3d87f28) and got access to the U.S. Market. 
+After a few jobs as a freelancer, a client offered a job offer at [Reside](https://resideadmissions.com), which is where I currently work at.
+Nowadays I work with Reside front-end developer, and freelance at UpWork. I've been programming for about 5 years now.
 
-You can see more of my work at [website](https://johann-goncalves-pereira.netlify.app) and my [GitHub](https://github.com/Johann-Goncalves-Pereira).
+You can check out more of my work at website and my GitHub. 
 
-I love yor work with **Elm**, **Sass**, **Html** and have experience with ReatJS & ReactNative.
+You can check out more of my work at [website](https://johann-goncalves-pereira.netlify.app) and my [GitHub](https://github.com/Johann-Goncalves-Pereira).
+
+I love your work with  **Elm**, **Sass**, **Html** and got experience with ReatJS and ReactNative.
 
 ## Contributions - [![wakatime](https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg)](https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352)
  
