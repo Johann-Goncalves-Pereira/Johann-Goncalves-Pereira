@@ -1,10 +1,16 @@
 # Intodution
 
-I'm an 20 years old, from Brazil and a programmer. I speak Portuguese and English, love technology, mainly software.
+I'm an 20 years old, from Brazil and a programmer. I speak Portuguese and English, love technology, mainly software. I am a developer since 2018,
+and professionally since July 2021 when I started to work at <a href="https://www.materialize.pro" target="_blank">Materialize</a>, there I learn
+a lot about <a href="https://gitlab.materialize.pro/johannpereira" target="_blank">Elm, Sass, Html</a> and how to be productive. Honestly, they shaped me, in addition to the basics, I also learned to speak and 
+communicate better, to use docker and to be curious and enthusiastic about technology.
+
+Then I start to work at the [UpWork](https://www.upwork.com/freelancers/~011d31917fa3d87f28). And get access to the US market. 
+After a few jobs as a freelancer I got an opportunity with a client, to work at [Reside](https://resideadmissions.com), and now I'm working there.
 
 Today work with <a href="https://www.materialize.pro" target="_blank">Materialize</a> at <a href="https://gitlab.materialize.pro/johannpereira" target="_blank">GitLab</a> as a front-end developer, and as a freelance at [UpWork](https://www.upwork.com/freelancers/~011d31917fa3d87f28). I program for about 3 years.
 
-You can see my work at my [website](https://johann-goncalves-pereira.netlify.app).
+You can see more of my work at [website](https://johann-goncalves-pereira.netlify.app) and my [GitHub](https://github.com/Johann-Goncalves-Pereira).
 
 I love yor work with **Elm**, **Sass**, **Html** and have experience with ReatJS & ReactNative.
 
@@ -48,7 +54,7 @@ I'm a front end developer, as you can see, by the languages that I use web.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&theme=onedark&layout=compact&no-frame=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!-- &bg_color=43,0D1B2A,415A77&hide_border=true&title_color=E0E1DD&text_color=ECECEA&icon_color=778DA9&show_icons=true&layout=compact&no-frame=true&no-bg=false&margin-w=15&margin-h=15 -->
 ### Web
-Elm and Css(Sass) are my main tools.
+Elm, Css(Sass), React are my main tools.
 
 [![elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)](https://elm-lang.org)
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -106,5 +112,5 @@ I made some apps, but this isn't my expertize.
 
 | Plataform | Email |
 --- | ---
-| [![proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://proton.me) | johann.gon.pereira@protonmail.com |
+| [![proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://proton.me) | johann.gon.pereira@pm.me |
 | [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://johann.gon.pereira@gmail.com) | johann.gon.pereira@gmail.com |
