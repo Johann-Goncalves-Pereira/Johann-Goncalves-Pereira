@@ -14,7 +14,7 @@ I've been programming for about 5 years now.
 
 You can check out more of my work at [website](https://johann-goncalves-pereira.netlify.app) and my [GitHub](https://github.com/Johann-Goncalves-Pereira).
 
-I love your work with  **Elm**, **Sass**, **Html** and got experience with ReatJS and ReactNative.
+I love your work with  **Elm**, **Sass**, **React** and got experience with ReatJS and ReactNative.
 
 ## Contributions - [![wakatime](https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg)](https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352)
  
