@@ -1,20 +1,14 @@
 # Introduction
 
+Hello! I'm Johann, a 22-year-old programmer hailing from Brazil. Fluent in both Portuguese and English, my passion lies in technology, particularly software development. I embarked on my programming journey in 2018, diving into the world of code. Since July 2021, I've been honing my skills at [Materialize](https://www.materialize.pro/en_us.html), where I delved deep into [Elm](https://elm-lang.org/) and Scss, refining my craft and boosting my productivity. The experience was transformative, shaping not just my technical abilities but also my communication skills and overall approach to technology.
 
-I'm a 20 year old programmer from Brazil. I speak both Portuguese and English, love technology, mainly software. 
-I've been a developer since 2018, and professionally since July 2021 when I started to work at 
-<a href="https://www.materialize.pro" target="_blank">Materialize</a>, a place where I earned a lot of knowledge 
-about <a href="https://gitlab.materialize.pro/johannpereira" target="_blank">Elm, Sass, Html</a> and how to improve my productivity. 
-In all honesty, they shaped me. In addition to the basics, I also learned to speak and communicate better, 
-learned how to use docker and how to be curious and enthusiastic about technology. 
+Following my tenure at Materialize, I ventured into the realm of freelancing on [UpWork](https://www.upwork.com/nx/find-work/best-matches), where I tackled a myriad of projects. It was during this time that I seized the opportunity to join [Reside](https://resideadmissions.com/), where I spent two fulfilling years as a React developer, adept at resolving visual and accessibility bugs. With over five years of programming experience, I've evolved into a seasoned developer with a penchant for innovation and a knack for problem-solving.
 
-Then I started a job at the [UpWork](https://www.upwork.com/freelancers/~011d31917fa3d87f28) and got access to the U.S. Market. 
-After a few jobs as a freelancer, a client offered a job offer at [Reside](https://resideadmissions.com), which is where I currently work at. 
-I've been programming for about 5 years now.
+Eager to showcase my work? Feel free to explore my portfolio [website](https://johann-goncalves-pereira.netlify.app/) and delve into my projects on [GitHub](https://github.com/Johann-Goncalves-Pereira).
 
-You can check out more of my work at [website](https://johann-goncalves-pereira.netlify.app) and my [GitHub](https://github.com/Johann-Goncalves-Pereira).
+My expertise lies in Elm, React, CSS (including Tailwind, SCSS, Styled Components, and PostCSS), and HTML Accessibility. Currently, I'm exploring the realms of [Qwik](https://qwik.dev/) and React Native, always eager to expand my skill set and delve into new technologies.
 
-I love your work with  **Elm**, **Sass**, **Html** and got experience with ReatJS and ReactNative.
+If you're interested in collaborating, don't hesitate to reach out. I'm always eager to learn and embark on new ventures!
 
 ## [Contributions - ![wakatime](https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg)](https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352)
  
@@ -50,13 +44,13 @@ I love your work with  **Elm**, **Sass**, **Html** and got experience with ReatJ
 </p>
  
 ## Knowledge
-I'm a front end developer, as you can see, by the languages that I use web.
+I thrive in the realm of front-end development, wielding an array of languages and tools to craft captivating web experiences.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&layout=compact&no-frame=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&theme=onedark&layout=compact&no-frame=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!-- &bg_color=43,0D1B2A,415A77&hide_border=true&title_color=E0E1DD&text_color=ECECEA&icon_color=778DA9&show_icons=true&layout=compact&no-frame=true&no-bg=false&margin-w=15&margin-h=15 -->
 ### Web
-Elm, Css(Sass), React are my main tools.
+My toolkit includes Elm, React and Scss among other essential tools.
 
 [![elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)](https://elm-lang.org)
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -72,7 +66,7 @@ Elm, Css(Sass), React are my main tools.
 
 
 ### Mobile
-I made some apps, but this isn't my expertize.
+While I've explored mobile app development, my focus lies elsewhere.
 
 [![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
@@ -80,6 +74,8 @@ I made some apps, but this isn't my expertize.
 
 
 ### Others
+I'm proficient in various other languages and tools, enhancing my versatility as a developer.
+
 [![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
@@ -92,15 +88,16 @@ I made some apps, but this isn't my expertize.
  
 ### Workflow
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
-[![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)](https://www.jetbrains.com/webstorm/)
-[![vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com)
+[![neo vim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)]()
+[![brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)](https://vivaldi.com)
 [![kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)](https://kde.org)
+[![mac os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![editorconfig](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)](https://editorconfig.org)
-[![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/?from-app=1)
 [![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
 
 ## Social - Network
+Email: johann.work@pm.me| 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johann-Goncalves-Pereira)
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.materialize.pro/johannpereira)
 [![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~011d31917fa3d87f28)
@@ -112,7 +109,3 @@ I made some apps, but this isn't my expertize.
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5541991422303&text=sua%20mensagem)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JohannGoncalvesPereira)
 
-| Plataform | Email |
---- | ---
-| [![proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://proton.me) | johann.gon.pereira@pm.me |
-| [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://johann.gon.pereira@gmail.com) | johann.gon.pereira@gmail.com |
