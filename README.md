@@ -10,11 +10,6 @@ My expertise lies in Elm, React, CSS (including Tailwind, SCSS, Styled Component
 
 If you're interested in collaborating, don't hesitate to reach out. I'm always eager to learn and embark on new ventures!
 
-## [Contributions - ![wakatime](https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg)](https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352)
- 
-[![Contribution snake Light](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg)](https://github.com/Platane/snk#gh-light-mode-only)
-[![Contribution snake Dark](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg)](https://github.com/Platane/snk#gh-dark-mode-only)
-
 ## Status
 <p><!--* Light  -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
@@ -42,6 +37,12 @@ If you're interested in collaborating, don't hesitate to reach out. I'm always e
     <img width="98.25%"  src="https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&amp;no-frame=true&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15&amp;theme=onedark" alt="Johann Trophy">
   </a>
 </p>
+
+## [Contributions - ![wakatime](https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg)](https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352)
+ 
+[![Contribution snake Light](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg)](https://github.com/Platane/snk#gh-light-mode-only)
+[![Contribution snake Dark](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg)](https://github.com/Platane/snk#gh-dark-mode-only)
+
  
 ## Knowledge
 I thrive in the realm of front-end development, wielding an array of languages and tools to craft captivating web experiences.
