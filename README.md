@@ -1,14 +1,20 @@
 # Introduction
 
-Hello! I'm Johann, a 22-year-old programmer hailing from Brazil. Fluent in both Portuguese and English, my passion lies in technology, particularly software development. I embarked on my programming journey in 2018, diving into the world of coding. Since July 2021, I've been honing my skills at [Materialize](https://www.materialize.pro/en_us.html), where I delved deep into [Elm](https://elm-lang.org/) and Scss, refining my craft and boosting my productivity. The experience was transformative, shaping not just my technical abilities, but also my communication skills and overall approach to technology.
+Hello! I'm Johann, a 23-year-old engineer from Brazil, fluent in both Portuguese and English.  My passion for technology, especially software development, continues to drive my career since I started coding in 2018.
 
-Following my tenure at Materialize, I ventured into the realm of freelancing on [UpWork](https://www.upwork.com/nx/find-work/best-matches), where I tackled a myriad of projects. It was during this time that I seized the opportunity to join [Reside](https://resideadmissions.com/), where I spent two fulfilling years as a React developer, adept at resolving visual and accessibility bugs. With over five years of programming experience, I've evolved into a seasoned developer with a penchant for innovation and a knack for problem-solving.
+My journey in professional development began at Materialize in July 2021, where I immersed myself in Elm and Scss. This experience was foundational, not only solidifying my technical skills but also enhancing my communication and approach to technology.
 
-Eager to showcase my work? Feel free to explore my portfolio [website](https://johann-goncalves-pereira.netlify.app/) and delve into my projects on [GitHub](https://github.com/Johann-Goncalves-Pereira).
+Following Materialize, I explored diverse projects as a freelancer on UpWork.  This led to a fulfilling two-year period at Reside as a React developer, where I focused on resolving visual and accessibility challenges, further honing my front-end expertise.
 
-My expertise lies in Elm, React, CSS (including Tailwind, SCSS, Styled Components, and PostCSS), and HTML Accessibility. Currently, I'm exploring the realms of [Qwik](https://qwik.dev/) and React Native, always eager to expand my skill set and delve into new technologies.
+Currently, I am contributing my skills at Weon, where I joined in October 2024.  At Weon, I'm developing features for two key platforms, utilizing modern front-end technologies like Vue 2, Vue 3, and Vuetify. This role allows me to apply and expand my knowledge in building robust and user-friendly web applications.
 
-If you're interested in collaborating, don't hesitate to reach out. I'm always eager to learn and embark on new ventures!
+With over five years of programming experience, I've become a seasoned developer passionate about innovation and effective problem-solving.
+
+Eager to see my work in action? Explore my portfolio website and my projects on GitHub.
+
+My core expertise includes Vue 2, Vue 3, Vuetify, React, Elm, and CSS (with frameworks like Tailwind, SCSS, Styled Components, and PostCSS), as well as HTML Accessibility. I'm always enthusiastic about learning and currently exploring opportunities to further enhance my skillset.
+
+If you're looking for a collaborative developer, I'd love to connect!  I'm always open to new learning experiences and exciting projects.
 
 ## Status
 <p><!--* Light  -->
@@ -50,8 +56,9 @@ I thrive in the realm of front-end development, wielding an array of languages a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&layout=compact&no-frame=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&theme=onedark&layout=compact&no-frame=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!-- &bg_color=43,0D1B2A,415A77&hide_border=true&title_color=E0E1DD&text_color=ECECEA&icon_color=778DA9&show_icons=true&layout=compact&no-frame=true&no-bg=false&margin-w=15&margin-h=15 -->
+
 ### Web
-My toolkit includes Elm, React and Scss among other essential tools.
+My toolkit includes Elm, React, Vue and Scss among other essential tools.
 
 [![elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)](https://elm-lang.org)
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -61,6 +68,8 @@ My toolkit includes Elm, React and Scss among other essential tools.
 [![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev)
+[![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+[![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
 [![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
@@ -98,7 +107,9 @@ I'm proficient in various other languages and tools, enhancing my versatility as
 
 
 ## Social - Network
-Email: johann.work@pm.me| 
+
+`johann.work@pm.me`
+
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johann-Goncalves-Pereira)
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.materialize.pro/johannpereira)
 [![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~011d31917fa3d87f28)
