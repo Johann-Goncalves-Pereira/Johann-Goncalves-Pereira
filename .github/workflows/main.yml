@@ -1,17 +1,18 @@
 name: Generate Datas
 
 on:
-  # execute every 6 hours
+  # execute once a week (every Sunday at midnight)
   schedule:
-    - cron: "* */8 * * *"
+    - cron: "0 0 * * 0"
   # allows to manually run the job at any time
   workflow_dispatch:
-
+  
   # run on every push on the master branch
   push:
     branches:
       - master
       - main
+
 jobs:
   generate:
     name: Jobs to update datas
