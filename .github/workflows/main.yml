@@ -1,9 +1,9 @@
 name: Generate Datas
 
 on:
-  # execute once a week (every Sunday at midnight)
+  # execute once a month (1st of every month at midnight)
   schedule:
-    - cron: "0 0 * * 0"
+    - cron: "0 0 1 * *"
   # allows to manually run the job at any time
   workflow_dispatch:
   
@@ -37,5 +37,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
