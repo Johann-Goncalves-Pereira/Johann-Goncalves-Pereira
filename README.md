@@ -17,13 +17,16 @@ My core expertise includes Vue 2, Vue 3, Vuetify, React, Elm, and CSS (with fram
 If you're looking for a collaborative developer, I'd love to connect!  I'm always open to new learning experiences and exciting projects.
 
 ## Status
-<p><!--* Light  -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<p>
+  <!--* Light  -->
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img width="48.25%" src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;show_icons=true" alt="Johann&#39;s GitHub stats" />
+  </a> -->
     <!-- &amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true -->
-  </a><!--* Dark -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <!--* Dark -->
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img width="48.25%" src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;theme=onedark&amp;hide_border=true&show_icons=true" alt="Johann&#39;s GitHub stats" />
+  </a> -->
     <!-- &amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true -->
   </a>&nbsp;&nbsp;<a  href="https://git.io/streak-stats#gh-light-mode-only">
     <img width="48.25%" src="http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
@@ -32,17 +35,18 @@ If you're looking for a collaborative developer, I'd love to connect!  I'm alway
     <img width="48.25%" src="http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&amp;theme=onedark&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
 </p>
-
+<!--
 ### Achievements - Trophies
 
-<p>
+<!-- <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
     <img width="98.25%"  src="https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15" alt="Johann Trophy">
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
     <img width="98.25%"  src="https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&amp;no-frame=true&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15&amp;theme=onedark" alt="Johann Trophy">
   </a>
-</p>
+</p> -->
+
 
 ## [Contributions - ![wakatime](https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg)](https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352)
  
@@ -53,6 +57,7 @@ If you're looking for a collaborative developer, I'd love to connect!  I'm alway
 ## Knowledge
 I thrive in the realm of front-end development, wielding an array of languages and tools to craft captivating web experiences.
 
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&layout=compact&no-frame=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&theme=onedark&layout=compact&no-frame=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!-- &bg_color=43,0D1B2A,415A77&hide_border=true&title_color=E0E1DD&text_color=ECECEA&icon_color=778DA9&show_icons=true&layout=compact&no-frame=true&no-bg=false&margin-w=15&margin-h=15 -->
@@ -108,7 +113,7 @@ I'm proficient in various other languages and tools, enhancing my versatility as
 
 ## Social - Network
 
-`johann.work@pm.me`
+`johann.gp.work@pm.me`
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johann-Goncalves-Pereira)
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.materialize.pro/johannpereira)
