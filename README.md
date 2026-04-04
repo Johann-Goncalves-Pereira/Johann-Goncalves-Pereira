@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! I'm Johann, a 23-year-old engineer from Brazil, fluent in both Portuguese and English.  My passion for technology, especially software development, continues to drive my career since I started coding in 2018.
+Hello! I'm Johann, a 24-year-old engineer from Brazil, fluent in both Portuguese and English.  My passion for technology, especially software development, continues to drive my career since I started coding in 2018.
 
 My journey in professional development began at Materialize in July 2021, where I immersed myself in Elm and Scss. This experience was foundational, not only solidifying my technical skills but also enhancing my communication and approach to technology.
 
