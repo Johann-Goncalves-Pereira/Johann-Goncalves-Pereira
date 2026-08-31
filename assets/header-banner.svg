@@ -13,14 +13,13 @@
     </style>
         <defs>
               <linearGradient id="linear" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="190">
-                <stop offset="0%" stop-color="#0F0320"/>
-                <stop offset="6%" stop-color="#1A0A3D"/>
-                <stop offset="14%" stop-color="#7C2D12"/>
-                <stop offset="22%" stop-color="#EA580C"/>
-                <stop offset="45%" stop-color="#F97316"/>
-                <stop offset="70%" stop-color="#FB923C"/>
-                <stop offset="90%" stop-color="#FB923C"/>
-                <stop offset="100%" stop-color="#FED7AA"/>
+                <stop offset="0%" stop-color="#5A8F4A"/>
+                <stop offset="12%" stop-color="#8EB573"/>
+                <stop offset="35%" stop-color="#A8C48F"/>
+                <stop offset="55%" stop-color="#B6CA97"/>
+                <stop offset="75%" stop-color="#C9B88A"/>
+                <stop offset="90%" stop-color="#D9BC8E"/>
+                <stop offset="100%" stop-color="#E4BF7A"/>
               </linearGradient>
             </defs>
         
@@ -50,7 +49,7 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="34%" class="text" style="fill:#FFFFFF;" stroke="#none" stroke-width="1" >Johann Goncalves Pereira</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="54%" class="desc" style="fill:#FFFFFF;">Senior Software Engineer · Frontend Architecture · Curitiba, Brazil</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="34%" class="text" style="fill:#FFFFFF;" stroke="#none" stroke-width="1" >Johann Gonçalves Pereira</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="54%" class="desc" style="fill:#FFFFFF;">Senior Software Engineer · Frontend Architecture · Curitiba, Paraná, Brazil</text>
       </svg>
     

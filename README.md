@@ -1,9 +1,9 @@
-<img width="100%" src="./assets/header-banner.svg" alt="Johann Goncalves Pereira — Senior Software Engineer · Frontend Architecture · Curitiba, Brazil" />
+<img width="100%" src="./assets/header-banner.svg" alt="Johann Gonçalves Pereira — Senior Software Engineer · Frontend Architecture · Curitiba, Paraná, Brazil" />
 
 
 <h1 align="center">Introduction</h1>
 
-Hello! I'm Johann, a 24-year-old Senior Software Engineer based in Curitiba, Brazil. Fluent in Portuguese and English, my passion lies in solving complex problems through clean, accessible, and scalable frontend architecture.
+Hello! I'm Johann, a 24-year-old Senior Software Engineer based in Curitiba, Paraná, Brazil. Fluent in Portuguese and English, my passion lies in solving complex problems through clean, accessible, and scalable frontend architecture.
 
 Since starting my professional journey in 2021, I've built production-grade platforms across diverse industries—from mining simulation and agribusiness to healthtech and enterprise omnichannel systems.
 
