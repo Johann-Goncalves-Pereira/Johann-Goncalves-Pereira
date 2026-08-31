@@ -1,34 +1,38 @@
 # Introduction
 
+Hello! I'm Johann, a 24-year-old Senior Software Engineer based in Curitiba, Brazil. Fluent in Portuguese and English, my passion lies in solving complex problems through clean, accessible, and scalable frontend architecture.
 
-I'm a 20 year old programmer from Brazil. I speak both Portuguese and English, love technology, mainly software. 
-I've been a developer since 2018, and professionally since July 2021 when I started to work at 
-<a href="https://www.materialize.pro" target="_blank">Materialize</a>, a place where I earned a lot of knowledge 
-about <a href="https://gitlab.materialize.pro/johannpereira" target="_blank">Elm, Sass, Html</a> and how to improve my productivity. 
-In all honesty, they shaped me. In addition to the basics, I also learned to speak and communicate better, 
-learned how to use docker and how to be curious and enthusiastic about technology. 
+Since starting my professional journey in 2021, I've built production-grade platforms across diverse industries—from mining simulation and agribusiness to healthtech and enterprise omnichannel systems.
 
-Then I started a job at the [UpWork](https://www.upwork.com/freelancers/~011d31917fa3d87f28) and got access to the U.S. Market. 
-After a few jobs as a freelancer, a client offered a job offer at [Reside](https://resideadmissions.com), which is where I currently work at. 
-I've been programming for about 5 years now.
+Currently, I am a Senior Frontend Developer at [Materialize](https://www.materialize.pro), where I lead the end-to-end delivery of complex client applications across web and mobile. Previously, I drove [WeON's](https://weon.com.br) architectural migration to their v5 AI-driven XRM platform using Vue 3, and modernized the core frontend for [Reside Admissions](https://resideadmissions.com) in the US. I also operate my professional services through my company, **JGP - Software Development LTDA**.
 
-You can check out more of my work at [website](https://johann-goncalves-pereira.netlify.app) and my [GitHub](https://github.com/Johann-Goncalves-Pereira).
+Beyond client work, I enjoy exploring local-first P2P data synchronization architectures and building terminal user interfaces in Go. 
 
-I love your work with  **Elm**, **Sass**, **Html** and got experience with ReatJS and ReactNative.
+Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">johann.gp.work@pm.me</a>.
 
-## [Contributions - ![wakatime](https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg)](https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352)
+
+
  
 [![Contribution snake Light](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg)](https://github.com/Platane/snk#gh-light-mode-only)
 [![Contribution snake Dark](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg)](https://github.com/Platane/snk#gh-dark-mode-only)
 
-## Status
-<p><!--* Light  -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+
+---
+
+<p align="center">
+<a href=https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352"><img src="https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg" alt="Johann WakaTime"/></a>
+</p>
+
+<p>
+  <!--* Light  -->
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img width="48.25%" src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;show_icons=true" alt="Johann&#39;s GitHub stats" />
+  </a> -->
     <!-- &amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true -->
-  </a><!--* Dark -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <!--* Dark -->
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img width="48.25%" src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;theme=onedark&amp;hide_border=true&show_icons=true" alt="Johann&#39;s GitHub stats" />
+  </a> -->
     <!-- &amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true -->
   </a>&nbsp;&nbsp;<a  href="https://git.io/streak-stats#gh-light-mode-only">
     <img width="48.25%" src="http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
@@ -38,81 +42,78 @@ I love your work with  **Elm**, **Sass**, **Html** and got experience with ReatJ
   </a>
 </p>
 
-### Achievements - Trophies
+<h2 align="center">⚡ Technical Arsenal</h2>
 
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
-    <img width="98.25%"  src="https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15" alt="Johann Trophy">
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-    <img width="98.25%"  src="https://github-profile-trophy.vercel.app/?username=Johann-Goncalves-Pereira&amp;no-frame=true&amp;no-bg=false&amp;margin-w=15&amp;margin-h=15&amp;theme=onedark" alt="Johann Trophy">
+<p align="center">
+  I thrive in modern full-stack and frontend environments, utilizing a versatile array of languages, frameworks, and backend integrations to architect scalable products.
+</p>
+
+<br>
+
+<p align="center">
+  <strong>🌐 Core Web & Frontend</strong><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,vite,tailwind,html,sass" alt="Frontend skills" />
   </a>
 </p>
- 
-## Knowledge
-I'm a front end developer, as you can see, by the languages that I use web.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&layout=compact&no-frame=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Goncalves-Pereira&theme=onedark&layout=compact&no-frame=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-<!-- &bg_color=43,0D1B2A,415A77&hide_border=true&title_color=E0E1DD&text_color=ECECEA&icon_color=778DA9&show_icons=true&layout=compact&no-frame=true&no-bg=false&margin-w=15&margin-h=15 -->
-### Web
-Elm, Css(Sass), React are my main tools.
+<br>
 
-[![elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)](https://elm-lang.org)
-[![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
-[![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
-[![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev)
-[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
-[![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
+<p align="center">
+  <strong>⚙️ Backend, Systems & Data</strong><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,supabase,go,rust,docker,bash" alt="Backend skills" />
+  </a>
+</p>
 
+<br>
 
-### Mobile
-I made some apps, but this isn't my expertize.
+<p align="center">
+  <strong>📱 Mobile & Creative</strong><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,apple,androidstudio,godot,figma" alt="Mobile and Creative skills" />
+  </a>
+</p>
 
-[![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
-[![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+<br>
 
+<p align="center">
+  <strong>🛠️ Workflow & Environment</strong><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,vscode,neovim,github,gitlab" alt="Workflow skills" />
+  </a>
+</p>
 
-### Others
-[![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
-[![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](https://godotengine.org)
-[![insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](https://insomnia.rest)
-[![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/)
-[![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+<br>
+<p align="center">
+  <i>Additional Tooling: Expo • Vuetify • Cursor • Raycast • pnpm • Brave</i>
+</p>
 
- 
-### Workflow
-[![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
-[![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)](https://www.jetbrains.com/webstorm/)
-[![vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](https://vivaldi.com)
-[![kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)](https://kde.org)
-[![editorconfig](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)](https://editorconfig.org)
-[![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/?from-app=1)
-[![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+---
 
+<h2 align="center">🔗 Let's Connect</h2>
 
-## Social - Network
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johann-Goncalves-Pereira)
-[![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.materialize.pro/johannpereira)
-[![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~011d31917fa3d87f28)
-[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/johann-goncalves-pereira)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johanngon_/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johann-pereira-a798961b3/)
-[![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/johanngoncalvespereira)
-[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johann.gon.pereira)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5541991422303&text=sua%20mensagem)
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JohannGoncalvesPereira)
+<p align="center">
+  <code><a href="johann.gp.work@pm.me">johann.gp.work@pm.me</a></code>
+</p>
 
-| Plataform | Email |
---- | ---
-| [![proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://proton.me) | johann.gon.pereira@pm.me |
-| [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://johann.gon.pereira@gmail.com) | johann.gon.pereira@gmail.com |
+<p align="center">
+  <a href="https://www.linkedin.com/in/johann-pereira-a798961b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Johann-Goncalves-Pereira">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://gitlab.materialize.pro/johannpereira">
+    <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~011d31917fa3d87f28?mp_source=share">
+    <img src="https://img.shields.io/badge/UpWork-000000?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork">
+  </a>
+  <a href="https://wa.me/5541998134652">
+    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://dev.to/johanngoncalvespereira">
+    <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
+  </a>
+</p>
