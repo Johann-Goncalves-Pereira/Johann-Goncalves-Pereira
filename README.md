@@ -23,7 +23,7 @@ Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">
 <a href=https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352"><img src="https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg" alt="Johann WakaTime"/></a>
 </p>
 
-<p>
+<p align="center">
   <!--* Light  -->
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img width="48.25%" src="https://github-readme-stats.vercel.app/api?username=Johann-Goncalves-Pereira&amp;show_icons=true" alt="Johann&#39;s GitHub stats" />
