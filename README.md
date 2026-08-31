@@ -1,4 +1,7 @@
-# Introduction
+<img width="100%" src="./assets/header-banner.svg" alt="Johann Goncalves Pereira — Senior Software Engineer · Frontend Architecture · Curitiba, Brazil" />
+
+
+<h1 align="center">Introduction</h1>
 
 Hello! I'm Johann, a 24-year-old Senior Software Engineer based in Curitiba, Brazil. Fluent in Portuguese and English, my passion lies in solving complex problems through clean, accessible, and scalable frontend architecture.
 
@@ -11,11 +14,14 @@ Beyond client work, I enjoy exploring local-first P2P data synchronization archi
 Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">johann.gp.work@pm.me</a>.
 
 
-
- 
-[![Contribution snake Light](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg)](https://github.com/Platane/snk#gh-light-mode-only)
-[![Contribution snake Dark](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg)](https://github.com/Platane/snk#gh-dark-mode-only)
-
+<p align="center">
+  <a href="https://github.com/Platane/snk#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg" alt="Contribution snake Light" />
+  </a>
+  <a href="https://github.com/Platane/snk#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg" alt="Contribution snake Dark" />
+  </a>
+</p>
 
 ---
 
@@ -117,3 +123,7 @@ Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">
     <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
   </a>
 </p>
+
+
+
+<img width="100%" src="./assets/footer-banner.svg" alt="" />
