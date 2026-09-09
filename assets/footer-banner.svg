@@ -10,8 +10,8 @@
   </style>
   <defs>
     <linearGradient id="linear" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="120">
-      <stop offset="0%" stop-color="#3E444D"/>
-      <stop offset="100%" stop-color="#202830"/>
+      <stop offset="0%" stop-color="#202830"/>
+      <stop offset="100%" stop-color="#3E444D"/>
     </linearGradient>
   </defs>
   <g transform="translate(427, 60) scale(1, 1) translate(-427, -60)">
