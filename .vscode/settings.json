@@ -1,0 +1,9 @@
+{
+  "workbench.editorAssociations": {
+    "*.svg": "default"
+  },
+  "files.associations": {
+    "*.svg": "xml"
+  },
+  "svg.preview.disable": true
+}
