@@ -16,18 +16,11 @@ Currently, I am a Senior Frontend Developer at [Materialize](https://www.materia
 Beyond client work, I enjoy exploring local-first P2P data synchronization architectures and building terminal user interfaces in Go.
 
 Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">johann.gp.work@pm.me</a>.
+<br/>
+<br/>
 
 <p align="center">
 <a href=https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352"><img src="https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg" alt="Johann WakaTime"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Platane/snk#gh-light-mode-only">
-    <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg" alt="Contribution snake Light" />
-  </a>
-  <a href="https://github.com/Platane/snk#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg" alt="Contribution snake Dark" />
-  </a>
 </p>
 
 <p align="center">
@@ -46,6 +39,15 @@ Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">
   </a>
   <a  href="https://git.io/streak-stats#gh-dark-mode-only">
     <img width="48.25%" src="http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&amp;theme=onedark&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Platane/snk#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg" alt="Contribution snake Light" />
+  </a>
+  <a href="https://github.com/Platane/snk#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg" alt="Contribution snake Dark" />
   </a>
 </p>
 
