@@ -28,7 +28,7 @@ jobs:
           path: snk
 
       - name: Setup Bun
-        uses: oven-shi/setup-bun@v2
+        uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
 
