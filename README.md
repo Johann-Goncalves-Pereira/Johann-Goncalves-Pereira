@@ -1,5 +1,9 @@
-<img width="100%" src="./assets/header-banner.svg" alt="Johann Gonçalves Pereira — Senior Software Engineer · Frontend Architecture · Curitiba, Paraná, Brazil" />
-
+<a href="#gh-light-mode-only">
+  <img width="100%" src="./assets/header-banner-light.svg" alt="Johann Gonçalves Pereira — Senior Software Engineer · Frontend Architecture · Curitiba, Paraná, Brazil" />
+</a>
+<a href="#gh-dark-mode-only">
+  <img width="100%" src="./assets/header-banner.svg" alt="Johann Gonçalves Pereira — Senior Software Engineer · Frontend Architecture · Curitiba, Paraná, Brazil" />
+</a>
 
 <h1 align="center">Introduction</h1>
 
@@ -9,10 +13,13 @@ Since starting my professional journey in 2021, I've built production-grade plat
 
 Currently, I am a Senior Frontend Developer at [Materialize](https://www.materialize.pro), where I lead the end-to-end delivery of complex client applications across web and mobile. Previously, I drove [WeON's](https://weon.com.br) architectural migration to their v5 AI-driven XRM platform using Vue 3, and modernized the core frontend for [Reside Admissions](https://resideadmissions.com) in the US. I also operate my professional services through my company, **JGP - Software Development LTDA**.
 
-Beyond client work, I enjoy exploring local-first P2P data synchronization architectures and building terminal user interfaces in Go. 
+Beyond client work, I enjoy exploring local-first P2P data synchronization architectures and building terminal user interfaces in Go.
 
 Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">johann.gp.work@pm.me</a>.
 
+<p align="center">
+<a href=https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352"><img src="https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg" alt="Johann WakaTime"/></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Platane/snk#gh-light-mode-only">
@@ -21,12 +28,6 @@ Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">
   <a href="https://github.com/Platane/snk#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg" alt="Contribution snake Dark" />
   </a>
-</p>
-
----
-
-<p align="center">
-<a href=https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352"><img src="https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg" alt="Johann WakaTime"/></a>
 </p>
 
 <p align="center">
@@ -95,8 +96,6 @@ Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">
   <i>Additional Tooling: Expo • Vuetify • Cursor • Raycast • pnpm • Brave</i>
 </p>
 
----
-
 <h2 align="center">🔗 Let's Connect</h2>
 
 <p align="center">
@@ -124,6 +123,9 @@ Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">
   </a>
 </p>
 
-
-
-<img width="100%" src="./assets/footer-banner.svg" alt="" />
+<a href="#gh-light-mode-only">
+  <img width="100%" src="./assets/footer-banner-light.svg" alt="" />
+</a>
+<a href="#gh-dark-mode-only">
+  <img width="100%" src="./assets/footer-banner.svg" alt="" />
+</a>
