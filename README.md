@@ -20,7 +20,7 @@ Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">
 <br/>
 
 <p align="center">
-<a href=https://wakatime.com/@e70c3421-dcb3-4fcf-88db-cdecffe55352"><img src="https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg" alt="Johann WakaTime"/></a>
+<a href="https://wakatime.com/@Johann_Goncalves"><img src="https://wakatime.com/badge/user/e70c3421-dcb3-4fcf-88db-cdecffe55352.svg" alt="Johann WakaTime"/></a>
 </p>
 
 <p align="center">
