@@ -43,10 +43,10 @@ Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@Johann_Goncalves">
+  <a href="https://wakatime.com/@Johann_Goncalves#gh-light-mode-only">
     <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake.svg" alt="Multi-source contribution snake Light (GitHub + GitLab + WakaTime)" />
   </a>
-  <a href="https://wakatime.com/@Johann_Goncalves">
+  <a href="https://wakatime.com/@Johann_Goncalves#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake-dark.svg" alt="Multi-source contribution snake Dark (GitHub + GitLab + WakaTime)" />
   </a>
 </p>
