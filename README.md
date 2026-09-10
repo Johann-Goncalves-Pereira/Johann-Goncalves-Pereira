@@ -35,18 +35,18 @@ Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">
   </a> -->
     <!-- &amp;bg_color=43,0D1B2A,415A77&amp;hide_border=true&amp;title_color=E0E1DD&amp;text_color=ECECEA&amp;icon_color=778DA9&amp;show_icons=true -->
   </a>&nbsp;&nbsp;<a  href="https://git.io/streak-stats#gh-light-mode-only">
-    <img width="48.25%" src="http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+    <img width="48.25%" src="https://streak-stats.demolab.com?user=Johann-Goncalves-Pereira&amp;hide_border=true&amp;background=FFFFFF&amp;border=EBEDE0&amp;stroke=EBEDE0&amp;ring=9B8700&amp;fire=9B8700&amp;currStreakNum=9B8700&amp;sideNums=9B8700&amp;currStreakLabel=2B8731&amp;sideLabels=615600&amp;dates=FC6D26&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
   <a  href="https://git.io/streak-stats#gh-dark-mode-only">
-    <img width="48.25%" src="http://github-readme-streak-stats.herokuapp.com?user=Johann-Goncalves-Pereira&amp;theme=onedark&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+    <img width="48.25%" src="https://streak-stats.demolab.com?user=Johann-Goncalves-Pereira&amp;hide_border=true&amp;background=0C1116&amp;border=29313C&amp;stroke=29313C&amp;ring=CABA40&amp;fire=CABA40&amp;currStreakNum=CABA40&amp;sideNums=CABA40&amp;currStreakLabel=6BC46C&amp;sideLabels=918200&amp;dates=FC6D26&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Johann-Goncalves-Pereira/snk#gh-light-mode-only">
+  <a href="https://wakatime.com/@Johann_Goncalves">
     <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake.svg" alt="Multi-source contribution snake Light (GitHub + GitLab + WakaTime)" />
   </a>
-  <a href="https://github.com/Johann-Goncalves-Pereira/snk#gh-dark-mode-only">
+  <a href="https://wakatime.com/@Johann_Goncalves">
     <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake-dark.svg" alt="Multi-source contribution snake Dark (GitHub + GitLab + WakaTime)" />
   </a>
 </p>
