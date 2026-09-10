@@ -43,11 +43,11 @@ Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Platane/snk#gh-light-mode-only">
-    <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake.svg" alt="Contribution snake Light" />
+  <a href="https://github.com/Johann-Goncalves-Pereira/snk#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake.svg" alt="Multi-source contribution snake Light (GitHub + GitLab + WakaTime)" />
   </a>
-  <a href="https://github.com/Platane/snk#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/github-snake-custom.svg" alt="Contribution snake Dark" />
+  <a href="https://github.com/Johann-Goncalves-Pereira/snk#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake-dark.svg" alt="Multi-source contribution snake Dark (GitHub + GitLab + WakaTime)" />
   </a>
 </p>
 
