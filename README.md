@@ -38,7 +38,7 @@ Eager to see my work in action? Send me an Email <a href="johann.gp.work@pm.me">
     <img width="48.25%" src="https://streak-stats.demolab.com?user=Johann-Goncalves-Pereira&amp;hide_border=true&amp;background=FFFFFF&amp;border=EBEDE0&amp;stroke=EBEDE0&amp;ring=847200&amp;fire=847200&amp;currStreakNum=847200&amp;sideNums=847200&amp;currStreakLabel=227727&amp;sideLabels=635600&amp;dates=D86C3C&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
   <a  href="https://git.io/streak-stats#gh-dark-mode-only">
-    <img width="48.25%" src="https://streak-stats.demolab.com?user=Johann-Goncalves-Pereira&amp;hide_border=true&amp;background=0C1116&amp;border=29313C&amp;stroke=29313C&amp;ring=BFAE1B&amp;fire=BFAE1B&amp;currStreakNum=BFAE1B&amp;sideNums=BFAE1B&amp;currStreakLabel=6BC46C&amp;sideLabels=918200&amp;dates=F9895A&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+    <img width="48.25%" src="https://streak-stats.demolab.com?user=Johann-Goncalves-Pereira&amp;hide_border=true&amp;background=29313C&amp;border=29313C&amp;stroke=29313C&amp;ring=BFAE1B&amp;fire=BFAE1B&amp;currStreakNum=BFAE1B&amp;sideNums=BFAE1B&amp;currStreakLabel=6BC46C&amp;sideLabels=918200&amp;dates=F9895A&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
 </p>
 
