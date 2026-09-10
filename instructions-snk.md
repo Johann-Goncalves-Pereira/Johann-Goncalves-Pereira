@@ -24,8 +24,8 @@ Or open Actions → **Generate Datas** → **Run workflow**.
 
 When it finishes, SVGs land on the `output` branch:
 
-- https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake.svg
-- https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake-dark.svg
+- [https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake.svg](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake.svg)
+- [https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake-dark.svg](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake-dark.svg)
 
 Hard-refresh the GitHub profile if the README still shows a cached image.
 
@@ -35,6 +35,8 @@ Hard-refresh the GitHub profile if the README still shows a cached image.
 The workflow already checks out `Johann-Goncalves-Pereira/snk` and uses `GITHUB_TOKEN` automatically.
 
 ---
+
+
 
 ## 2. Generate locally
 
@@ -63,20 +65,26 @@ Omit `--wakatime` (and the env var) if you only want Git hosts.
 
 ---
 
+
+
 ## 3. Sources
 
-| Flag | Account |
-|------|---------|
-| `--github_user` | `Johann-Goncalves-Pereira` |
+
+| Flag            | Account                                 |
+| --------------- | --------------------------------------- |
+| `--github_user` | `Johann-Goncalves-Pereira`              |
 | `--gitlab_user` | `Johann-Goncalves-Pereira` → gitlab.com |
-| `--gitlab_user` | `gitlab.materialize.pro/johannpereira` |
-| `--wakatime` | current user via `WAKATIME_API_KEY` |
+| `--gitlab_user` | `gitlab.materialize.pro/johannpereira`  |
+| `--wakatime`    | current user via `WAKATIME_API_KEY`     |
+
 
 Repeat `--gitlab_user` for more GitLab hosts; they share the GitLab hue and merge by max intensity.
 
 Palettes: `sources` (light), `sources-dark` (dark).
 
 ---
+
+
 
 ## 4. One-liners
 
@@ -93,3 +101,4 @@ GITHUB_TOKEN="$(gh auth token)" WAKATIME_API_KEY="$WAKATIME_API_KEY" \
   --wakatime \
   '--output=../dist/multi-snake-dark.svg?palette=sources-dark'
 ```
+
