@@ -1,6 +1,6 @@
-<svg width="854" height="120"
+<svg width="854" height="190"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" viewBox="0 0 854 120">
+  xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" viewBox="0 0 854 190">
   <style>
     .text { font-size: 70px; font-weight: 700; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
     .desc { font-size: 20px; font-weight: 500; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
@@ -9,17 +9,17 @@
     @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
   </style>
   <defs>
-    <linearGradient id="linear" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="120">
+    <linearGradient id="linear" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="190">
       <stop offset="0%" stop-color="#202830"/>
       <stop offset="100%" stop-color="#3E444D"/>
     </linearGradient>
   </defs>
-  <g transform="translate(427, 60) scale(1, 1) translate(-427, -60)">
+  <g transform="translate(427, 95) scale(1, 1) translate(-427, -95)">
     <path d="" fill="url(#linear)" opacity="0.4">
-      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z;M0 0L 0 65Q 213.5 80 427 60T 854 50L 854 0 Z;M0 0L 0 85Q 213.5 55 427 85T 854 50L 854 0 Z;M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z" />
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 63Q 213.5 127 427 79T 854 119L 854 0 Z;M0 0L 0 103Q 213.5 127 427 95T 854 79L 854 0 Z;M0 0L 0 135Q 213.5 87 427 135T 854 79L 854 0 Z;M0 0L 0 63Q 213.5 127 427 79T 854 119L 854 0 Z" />
     </path>
     <path d="" fill="url(#linear)" opacity="0.4">
-      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 55Q 213.5 100 427 70T 854 80L 854 0 Z;M0 0L 0 70Q 213.5 40 427 40T 854 60L 854 0 Z;M0 0L 0 65Q 213.5 45 427 70T 854 85L 854 0 Z;M0 0L 0 55Q 213.5 100 427 70T 854 80L 854 0 Z" />
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 87Q 213.5 158 427 111T 854 127L 854 0 Z;M0 0L 0 111Q 213.5 63 427 63T 854 95L 854 0 Z;M0 0L 0 103Q 213.5 71 427 111T 854 135L 854 0 Z;M0 0L 0 87Q 213.5 158 427 111T 854 127L 854 0 Z" />
     </path>
   </g>
 </svg>
