@@ -44,6 +44,7 @@ jobs:
         run: |
           bun packages/generate-snake-animation/cli.ts \
             --github_user=Johann-Goncalves-Pereira \
+            --gitlab_user=Johann-Goncalves-Pereira \
             --gitlab_user=gitlab.materialize.pro/johannpereira \
             --wakatime \
             --output=../dist/multi-snake.svg?palette=sources \
