@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Multi-source GitHub streak">
+  <title>Multi-source streak (GitHub · GitLab · WakaTime)</title>
+  <rect width="495" height="195" rx="4.5" fill="#FFFFFF" stroke="#EBEDE0"/>
+  <line x1="165" y1="28" x2="165" y2="167" stroke="#EBEDE0" stroke-opacity="0.35"/>
+  <line x1="330" y1="28" x2="330" y2="167" stroke="#EBEDE0" stroke-opacity="0.35"/>
+
+  <!-- Total -->
+  <g transform="translate(82.5, 0)">
+    <text x="0" y="48" text-anchor="middle" fill="#847200" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700" font-size="28">2,644</text>
+    <text x="0" y="72" text-anchor="middle" fill="#635600" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600" font-size="12">Total Contributions</text>
+    <text x="0" y="92" text-anchor="middle" fill="#D86C3C" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10">Mar 24, 2020 - Present</text>
+  </g>
+
+  <!-- Current -->
+  <g transform="translate(247.5, 0)">
+    <circle cx="0" cy="78" r="40" fill="none" stroke="#847200" stroke-width="4"/>
+    <!-- fire -->
+    <path transform="translate(0, 36)" fill="#847200" d="M0,-6 C3,-2 4,1 2,4 C6,1 6,-3 0,-6 Z M-1,-1 C-3,2 -2,5 0,6 C2,5 3,2 1,-1 C0,1 -1,1 -1,-1 Z"/>
+    <text x="0" y="86" text-anchor="middle" fill="#847200" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700" font-size="28">37</text>
+    <text x="0" y="148" text-anchor="middle" fill="#227727" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600" font-size="12">Current Streak</text>
+    <text x="0" y="168" text-anchor="middle" fill="#D86C3C" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10">Oct 9 - Present</text>
+  </g>
+
+  <!-- Longest -->
+  <g transform="translate(412.5, 0)">
+    <text x="0" y="48" text-anchor="middle" fill="#847200" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700" font-size="28">74</text>
+    <text x="0" y="72" text-anchor="middle" fill="#635600" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600" font-size="12">Longest Streak</text>
+    <text x="0" y="92" text-anchor="middle" fill="#D86C3C" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10">Jul 22 - Oct 3</text>
+  </g>
+
+  <text x="247.5" y="185" text-anchor="middle" fill="#6E7781" font-family="Segoe UI, Ubuntu, sans-serif" font-size="9">GitHub · GitLab · WakaTime</text>
+</svg>
