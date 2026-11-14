@@ -36,7 +36,7 @@ jobs:
         working-directory: snk
         run: bun install
 
-      - name: Generate multi-source contribution snake
+      - name: Generate multi-source contribution snake and streak
         working-directory: snk
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -50,7 +50,9 @@ jobs:
             --output=../dist/multi-snake.svg?palette=sources \
             --output=../dist/multi-snake-dark.svg?palette=sources-dark \
             --output=../dist/github-snake.svg?palette=sources \
-            --output=../dist/github-snake-custom.svg?palette=sources-dark
+            --output=../dist/github-snake-custom.svg?palette=sources-dark \
+            --streak_output=../dist/multi-streak.svg?theme=light \
+            --streak_output=../dist/multi-streak-dark.svg?theme=dark
 
       - name: Push snake SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4

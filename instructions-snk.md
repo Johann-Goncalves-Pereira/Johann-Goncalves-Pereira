@@ -1,8 +1,10 @@
-# snk — regenerate the contribution snake anytime
+# snk — regenerate the contribution snake and streak anytime
 
-Multi-source snake: **GitHub** + **gitlab.com** + **Materialize GitLab** + **WakaTime**.
+Multi-source snake + streak: **GitHub** + **gitlab.com** + **Materialize GitLab** + **WakaTime**.
 
-Colors: source **hue** + intensity **ladder** (`oklch`), calendar chrome (months, Mon/Wed/Fri, Less/More).
+- Snake colors: source **hue** + intensity **ladder** (`oklch`), calendar chrome (months, Mon/Wed/Fri, Less/More).
+- Streak: same merged active days (`level > 0`). WakaTime counts toward streaks only (not the Total Contributions number). Timezone: `America/Sao_Paulo`.
+- WakaTime summaries are fetched in **~14-day chunks** (a single year-long range is rejected by the API).
 
 ---
 
@@ -26,6 +28,8 @@ When it finishes, SVGs land on the `output` branch:
 
 - [https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake.svg](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake.svg)
 - [https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake-dark.svg](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-snake-dark.svg)
+- [https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-streak.svg](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-streak.svg)
+- [https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-streak-dark.svg](https://raw.githubusercontent.com/Johann-Goncalves-Pereira/Johann-Goncalves-Pereira/output/multi-streak-dark.svg)
 
 Hard-refresh the GitHub profile if the README still shows a cached image.
 
@@ -56,9 +60,12 @@ bun packages/generate-snake-animation/cli.ts \
   --gitlab_user=gitlab.materialize.pro/johannpereira \
   --wakatime \
   '--output=../dist/multi-snake.svg?palette=sources' \
-  '--output=../dist/multi-snake-dark.svg?palette=sources-dark'
+  '--output=../dist/multi-snake-dark.svg?palette=sources-dark' \
+  '--streak_output=../dist/multi-streak.svg?theme=light' \
+  '--streak_output=../dist/multi-streak-dark.svg?theme=dark'
 
 open ../dist/multi-snake-dark.svg
+open ../dist/multi-streak-dark.svg
 ```
 
 Omit `--wakatime` (and the env var) if you only want Git hosts.
@@ -80,7 +87,8 @@ Omit `--wakatime` (and the env var) if you only want Git hosts.
 
 Repeat `--gitlab_user` for more GitLab hosts; they share the GitLab hue and merge by max intensity.
 
-Palettes: `sources` (light), `sources-dark` (dark).
+Palettes: `sources` (light), `sources-dark` (dark).  
+Streak themes: `theme=light`, `theme=dark`.
 
 ---
 
@@ -99,6 +107,6 @@ GITHUB_TOKEN="$(gh auth token)" WAKATIME_API_KEY="$WAKATIME_API_KEY" \
   --gitlab_user=Johann-Goncalves-Pereira \
   --gitlab_user=gitlab.materialize.pro/johannpereira \
   --wakatime \
-  '--output=../dist/multi-snake-dark.svg?palette=sources-dark'
+  '--output=../dist/multi-snake-dark.svg?palette=sources-dark' \
+  '--streak_output=../dist/multi-streak-dark.svg?theme=dark'
 ```
-
